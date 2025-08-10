@@ -33,3 +33,7 @@ This workshop provides a comprehensive yet approachable introduction to ML. We a
     -   A complete hands-on session to classify handwritten digits from the famous **MNIST dataset**.
 
 ## More Resources
+-    https://www.youtube.com/watch?v=O5xeyoRL95U
+-    https://youtu.be/r-uOLxNrNk8?si=iQtrHrieUGtpglo4
+-    https://youtu.be/4b4MUYve_U8?si=WqGqQnWfON4klzYh
+-    https://developers.google.com/machine-learning/crash-course
