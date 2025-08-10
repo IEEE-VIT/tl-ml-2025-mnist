@@ -1,12 +1,7 @@
 # IEEE TechLoop IRIS: Introduction to Machine Learning: A Hands-On Workshop
 
-[![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Workshop Status](https://img.shields.io/badge/Status-Complete-brightgreen)](./)
-
 Welcome to a hands-on journey into the fascinating world of Machine Learning! This repository contains all the materials for an interactive workshop designed for beginners. Where we look into the core concepts, explore the math behind the models, and build an ML model.
 
-![Neural Network Diagram](image_a81ecd.png)
 
 ---
 
