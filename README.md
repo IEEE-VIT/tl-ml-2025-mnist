@@ -5,7 +5,7 @@ Welcome to a hands-on journey into the fascinating world of Machine Learning! Th
 
 ---
 
-## ✨ Workshop Overview
+##  Workshop Overview
 
 This workshop provides a comprehensive yet approachable introduction to ML. We are focused on hands-on learning, ensuring you write code and see concepts in action. By the end, you will have a solid foundational understanding of:
 
@@ -16,7 +16,7 @@ This workshop provides a comprehensive yet approachable introduction to ML. We a
 
 ---
 
-## 📚 Key Topics Covered
+##  Key Topics Covered
 
 -   **Fundamentals of Machine Learning**:
     -   Supervised Learning
